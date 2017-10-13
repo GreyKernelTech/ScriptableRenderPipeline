@@ -491,7 +491,7 @@ namespace UnityEngine.Experimental.Rendering.HDPipeline
         SSAO,
         SSAOBeforeFiltering,
         DeferredShadows,
-        PreTransparentColorPyramid,
+        PreRefractionColorPyramid,
         DepthPyramid,
         FinalColorPyramid,
         MaxLightingFullScreenDebug,
